@@ -13,10 +13,6 @@ Markdown files: Within each subdirectory (or directly in theory if not using sub
 ## Definitions and key concepts
 Mathematical formulations (if applicable)
 
-## Assumptions and limitations
-Visual aids (diagrams, illustrations)
-References to relevant sources (https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX)
-
 # Notebooks:
 Jupyter Notebooks: This directory houses Jupyter Notebooks (.ipynb files) that showcase practical implementations of the algorithms:
 Each notebook should have a clear and descriptive title (e.g., linear_regression_implementation.ipynb).
